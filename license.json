@@ -1,0 +1,9 @@
+{
+  "users": {
+    "CryptoN2428": { "expire": "2099-12-31" },
+    "Golf_268":    { "expire": "2099-12-31" },
+    "someuser123": { "expire": "2026-01-10" }
+  },
+  "updated": "2025-11-11T12:00:00Z",
+  "version": 1
+}
